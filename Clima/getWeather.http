@@ -1,0 +1,5 @@
+## GET Request ##
+## get the weather data by the city name ##
+https://api.openweathermap.org/data/2.5/weather?appid=94e4aae759b72f3c8c43209771459652&units=metric&q=london
+
+###
